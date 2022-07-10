@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @daviddvsjrgg
 - 👀 I’m interested in Web/Game Development
-- 🌱 I’m currently learning c++, a Framework for php
+- 🌱 I’m currently learning php, a Framework for php
 - 📫 How to reach me : Instagram @davidek_sfgram
 
 <!---
