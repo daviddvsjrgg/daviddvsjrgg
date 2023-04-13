@@ -3,6 +3,5 @@
 - 🌱 I’m currently learning Laravel, a Framework for php
 - 📫 How to reach me : Instagram @davidek_rl
 <!---
-daviddvsjrgg/daviddvsjrgg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+daviddvsjrgg/daviddvsjrgg is a ✨ special ✨ repository because its `README.md` (this file)
 --->
