@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @daviddvsjrgg<br>👀 I’m interested in Web Application/Mobile Apps<br>🌱 I’m currently learning React, API<br>📫 How to reach me : Instagram @davidek_rl
+👋 Hi, I’m @daviddvsjrgg<br>👀 I’m interested in Web Application/Mobile Apps<br>🌱 I’m currently how to be rich <br>📫 How to reach me : Instagram @davidek_rl
 
 
 ## 🌐 Socials:
