@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @daviddvsjrgg<br>👀 I’m interested in Web Application/Mobile Apps<br>🌱 I’m currently learn cloud <br>📫 How to reach me : Instagram @davidek_rl
+👋 Hi, I’m @daviddvsjrgg
 
 
 ## 🌐 Socials:
